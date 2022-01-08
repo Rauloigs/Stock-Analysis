@@ -14,7 +14,7 @@ We are reviewing to general results. The first one is **the comparisson of the s
 
 In 2017 all stocks except TERP had positive outcome regarding their return investment. form 5.5%& up to 199.4%. This last one was DQ which is the start up which Steve´s parents wanted to initially invest in. This could be attributed to the initial public offering (IPO) of the company, which it commonly generates high expectations in investors and therefor its value tends to inflate. Probably in 2018 it can tend to an equilibrium point. 
 
-<img width="224" alt="2017" src="https://user-images.githubusercontent.com/84519822/148663408-1f4e0427-fe58-45cc-8b78-77ed9aeb9fa4.png"><div align=”center”> [ Your content here ]</div>
+<img width="224" alt="2017" src="https://user-images.githubusercontent.com/84519822/148663408-1f4e0427-fe58-45cc-8b78-77ed9aeb9fa4.png">
 
 
 During 2018 all stocks excepting ENPH and RUN gave a positve return of 81.9% and 84.0% respectively. The rest performed from -3.5 down to -62.6. In this year DQ, had the worst performance of them all, though as its being mentioned before in this analysis, it may be the consequence of a stock expectation deflating or finding its equilibrium point. 
