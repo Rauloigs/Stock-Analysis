@@ -51,3 +51,5 @@ Disadvantage:
 
 - Now we can use this code for whatever year, whatever stocks. 
 - At least me. I got pretty lost when using the tickersIndex(i), for me (a very beginner), using arrays instead of just keys of names was more difficult. 
+
+If you think you are missing something to check from my Challenge, please click here: https://github.com/Rauloigs/stock-analysis
