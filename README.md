@@ -44,8 +44,8 @@ Advantages:
 2. You can approach to something specific with something general. So in other words, with something general you approach to many specific situations. 
 
 Disadvantage: 
-1. I takes time and two *Office Hours* to make it happen. 
-2. Just kidding (sorry if not funny). You can get lost, because you use a little bit more variables and less specific names for the variables. Which means you need to be conscious of were those variables / principles are going to be refected.   
+1. It takes time and two *Office Hours* to make it happen. 
+2. Just kidding (sorry if not funny). You can get lost, because you use a little bit more variables and less specific names for the variables. Which means you need to be conscious of where those variables / principles are going to be refected.   
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
